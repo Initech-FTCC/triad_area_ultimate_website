@@ -1,0 +1,26 @@
+ul.navbar {
+	list-style: none;
+	background-color: #77A6B6;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	font-size: 20px;
+}
+
+li {
+	font-family: 'Lato', sans-serif; 
+	line-height: 40px;
+	height: 40px; 
+	border-bottom: 1px solid #F0B67F;
+}
+
+a.nav-a {
+	color: #F0F8EA;
+	display: block;
+	transition: .3s background-color;
+}
+
+a.nav-a:hover {
+	background-color: #D6D4B4;
+	color: #FE5F55;
+}
