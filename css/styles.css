@@ -130,3 +130,14 @@ iframe {
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+.team-name {
+	text-align: center;
+	font-family: 'Rubic', sans-serif;
+	color: #FE5F55;
+	font-size: 25px;
+}
+
+.form-div {
+	text-align: center;
+	color: black;
+}
